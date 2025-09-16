@@ -1,0 +1,10 @@
+<movie>
+<movie name= "the fellowship of the ring"><movie/> 
+<release>2001<release/>
+<main character="frodo baggins"><main/>
+<actor="elijah wood"/> 
+<movie name="the empire strikes back"/>
+<release>1980<release/>
+<main character="luke skywalker"/>
+<actor>mark hamill<actor/>
+<movie/>

@@ -1,0 +1,6 @@
+[
+    {"title": "c# intro to programming","lead": "tj spillman","credits":"3" }, 
+    {"title": "java script","lead": "ryan appel", "credits": "3"},
+    {"title": "php", "lead":"joseph wetzel", "credits":"3"},
+    {"title": "c++ programming","lead":"ryan appel","credits":"3"}
+]
